@@ -1,0 +1,6 @@
+train: IoT-Data/training/images
+val: IoT-Data/val/images
+
+# Custom classes definition
+nc: 2
+names: ["Not a tumor", "Tumor"]
